@@ -1,0 +1,376 @@
+{
+  "nodes": [
+    {
+      "name": "Asia"
+    },
+    {
+      "name": "Costa Oeste de Suramérica"
+    },
+    {
+      "name": "Costa Oeste de Centroamérica"
+    },
+    {
+      "name": "Costa Oeste de Estados Unidos"
+    },
+    {
+      "name": "Costa Oeste de Canadá"
+    },
+    {
+      "name": "Oceanía"
+    },
+    {
+      "name": "Balboa, República de Panamá"
+    },
+    {
+      "name": "Alrededor del Mundo (Pacífico)"
+    },
+    {
+      "name": "Costa Este de los Estados Unidos"
+    },
+    {
+      "name": "Europa"
+    },
+    {
+      "name": "Costa Este de Suramérica"
+    },
+    {
+      "name": "Costa Este de Centroamérica"
+    },
+    {
+      "name": "Costa Este de Canadá"
+    },
+    {
+      "name": "Antillas"
+    },
+    {
+      "name": "África"
+    },
+    {
+      "name": "Asia y el Lejano Oriente"
+    },
+    {
+      "name": "Alrededor del Mundo (Atlantic)"
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 8,
+      "value": 40894809
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "value": 10607483
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 4142591
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "value": 489149
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 853039
+
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "value": 1629276
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "value": 148282
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "value": 193881
+    },
+    {
+      "source": 0,
+      "target": 9,
+      "value": 1009471
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "value": 10656536
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "value": 1532262
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "value": 3808681
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "value": 2783114
+    },
+    
+    {
+      "source": 5,
+      "target": 9,
+      "value": 363094
+    },
+    
+    {
+      "source": 6,
+      "target": 9,
+      "value": 86030
+    },
+    
+    {
+      "source": 7,
+      "target": 9,
+      "value": 337
+    },
+    {
+      "source": 0,
+      "target": 10,
+      "value": 2316024
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "value": 2659176
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "value": 603975
+    },
+    {
+      "source": 3,
+      "target": 10,
+      "value": 222271
+    },
+    {
+      "source": 4,
+      "target": 10,
+      "value": 495616
+    },
+    {
+      "source": 5,
+      "target": 10,
+      "value": 109106
+    },
+    {
+      "source": 6,
+      "target": 10,
+      "value": 15509
+    },
+    {
+      "source": 7,
+      "target": 10,
+      "value": 2777
+    },
+    {
+      "source": 0,
+      "target": 11,
+      "value": 2245075
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "value": 669316
+    },
+    {
+      "source": 2,
+      "target": 11,
+      "value": 420928
+    },
+    {
+      "source": 3,
+      "target": 11,
+      "value": 167599
+    },
+    {
+      "source": 4,
+      "target": 11,
+      "value": 8093
+    },
+    {
+      "source": 5,
+      "target": 11,
+      "value": 64257
+    },
+    {
+      "source": 6,
+      "target": 11,
+      "value": 2961
+    },
+    {
+      "source": 7,
+      "target": 11,
+      "value": 7086
+    },
+    {
+      "source": 0,
+      "target": 12,
+      "value": 384954
+    },
+    {
+      "source": 1,
+      "target": 12,
+      "value": 487831
+    },
+    {
+      "source": 2,
+      "target": 12,
+      "value": 999262
+    },
+    {
+      "source": 3,
+      "target": 12,
+      "value": 86312
+    },
+    {
+      "source": 4,
+      "target": 12,
+      "value": 60331
+    },
+    {
+      "source": 7,
+      "target": 12,
+      "value": 4989
+    },
+    {
+      "source": 0,
+      "target": 13,
+      "value": 597943
+    },
+    {
+      "source": 1,
+      "target": 13,
+      "value": 237506
+    },
+    {
+      "source": 2,
+      "target": 13,
+      "value": 258284
+    },
+    {
+      "source": 3,
+      "target": 13,
+      "value": 10038
+    },
+    {
+      "source": 4,
+      "target": 13,
+      "value": 93902
+    },
+    {
+      "source": 5,
+      "target": 13,
+      "value": 249901
+    },
+    {
+      "source": 6,
+      "target": 13,
+      "value": 97726
+    },
+    {
+      "source": 7,
+      "target": 13,
+      "value": 97689
+    },
+    {
+      "source": 0,
+      "target": 14,
+      "value": 739679
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "value": 296610
+    },
+    {
+      "source": 2,
+      "target": 14,
+      "value": 145470
+    },
+    {
+      "source": 3,
+      "target": 14,
+      "value": 48553
+    },
+    {
+      "source": 4,
+      "target": 14,
+      "value": 262842
+    },
+    {
+      "source": 5,
+      "target": 14,
+      "value": 65048
+    },
+    {
+      "source": 6,
+      "target": 14,
+      "value": 152
+    },
+    {
+      "source": 7,
+      "target": 14,
+      "value": 9933
+    },
+    {
+      "source": 1,
+      "target": 15,
+      "value": 195715
+    },
+    {
+      "source": 2,
+      "target": 15,
+      "value": 561694
+    },
+    {
+      "source": 3,
+      "target": 15,
+      "value": 142612
+    },
+    {
+      "source": 4,
+      "target": 15,
+      "value": 137371
+    },
+    {
+      "source": 6,
+      "target": 15,
+      "value": 7851
+    },
+    {
+      "source": 1,
+      "target": 16,
+      "value": 55794
+    },
+    {
+      "source": 3,
+      "target": 16,
+      "value": 31613
+    },
+    {
+      "source": 0,
+      "target": 17,
+      "value": 2046
+    },
+    {
+      "source": 2,
+      "target": 17,
+      "value": 189
+    }
+  ]
+}
